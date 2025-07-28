@@ -22,4 +22,3 @@ Welcome to the **most chaotic UNO experience ever** — full of custom cards, ev
 
 ## 💡 Ideas? Bugs? Chaos Requests?
 Create an [Issue](https://github.com/DavidTheCoolGuy517/UNO-Chaos-Temptation-Version-1/issues) or PR and bring the heat 💣
-# UNO-Chaos-Temptation
